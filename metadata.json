@@ -1,0 +1,5 @@
+{
+  "name": "Copy of MediAgent AIS Orchestrator",
+  "description": "A Multi-Agent Hospital Information System interface designed for AIS control and auditing. Features delegation simulation, SQL schema visualization, and real-time control logging.",
+  "requestFramePermissions": []
+}
